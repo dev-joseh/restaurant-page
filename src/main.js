@@ -1,4 +1,3 @@
-
 const main = function() {
     const root = document.createElement('div');
     const title = document.createElement('div');
